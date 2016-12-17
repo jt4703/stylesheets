@@ -725,10 +725,13 @@ center;
     display: none;
 }
  
+}.last_read {
+	margin-left: 8px;
+}
 
 
 .last_read :before {
-	content:'?';
+	content:'➜';
 	display:inline-block
 }
 #userinfo_minor:before,.linkbox br {
