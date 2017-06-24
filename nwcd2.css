@@ -122,7 +122,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	width: 100%;
 	padding: 3px 0 3px 0;
 	text-align: center;
-	background-color: #3a9156;
+	background-color: #507d5e;
 	font-size: 10pt;
 }
 
@@ -144,7 +144,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 #userinfo {
 	position: relative;
 	top: 0px;
-	background: #c6e8c7;
+	background: #92bd94;
 	color: #276133;
 	padding: 0;
 	width: 100%;
@@ -187,7 +187,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 #searchbars{
 	width: 100%;
 	text-align:center; 
-	background-color: #6ec57b;
+	background-color: #72ae7b;
 	padding: 3px 0 3px 0;
 }
 
@@ -257,8 +257,8 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 .alertbar {
-	border: 1px solid #6ec57b;
-	background-color: #c6e8c7;
+	border: 1px solid #72ae7b;
+	background-color: #92bd94;
 	text-align: center;
 	color: #276133;
 	font-weight: bold;
@@ -330,7 +330,7 @@ p.min_padding {
 .box {
 	font-size: 8pt;
 	background-color: #e2f2e0;
-	border: 1px solid #3a9156;
+	border: 1px solid #507d5e;
 }
 
 .pad h3, .pad h4, .padbox h3, .padbox h4 {
@@ -350,7 +350,7 @@ p.min_padding {
 
 .head {
 	padding: 4px;
-	border-bottom: 1px solid #3a9156;
+	border-bottom: 1px solid #507d5e;
 	background: #a7efb4;
 	color: #333;
 }
@@ -398,7 +398,7 @@ table {
 }
 
 tr {
-	border: 1px solid #3a9156;
+	border: 1px solid #507d5e;
 	background-color: #e7f5ea;
 }
 
@@ -407,14 +407,14 @@ tr.rowa {
 }
 
 td {
-	border: 1px solid #3a9156;
+	border: 1px solid #507d5e;
 	padding: 3px;
 	text-align: left;
 }
 .colhead {
 	background: #9dd8a3;
 	font-weight: bold;
-	color: white;
+	color: green;
 }
 
 td.colhead, .colhead td {
@@ -462,7 +462,7 @@ table.slice {
 }
 
 .error_message {
-	border: 1px solid #3a9156;
+	border: 1px solid #507d5e;
 	padding: 3px 0px 3px 0px;
 	background-color: #AF2525;
 	text-align: center;
@@ -471,7 +471,7 @@ table.slice {
 }
 
 .save_message {
-	border: 1px solid #3a9156;
+	border: 1px solid #507d5e;
 	padding: 3px 0px 3px 0px;
 	background-color: #F4E649;
 	text-align: center;
@@ -588,7 +588,7 @@ table.forum_post {
 }
 
 table.forum_post td {
-	border: 1px solid #3a9156;
+	border: 1px solid #507d5e;
 }
 
 td.avatar {
@@ -603,7 +603,7 @@ table.forum_post td.body {
 blockquote {
 	margin: 10px;
 	padding: 10px;
-	border: 1px dashed #3a9156;
+	border: 1px dashed #507d5e;
 }
 
 
