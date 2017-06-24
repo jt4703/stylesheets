@@ -554,7 +554,7 @@ ul.poll li.graph {
     line-height: 0px;
 }
 .torrent_table tr.group_torrent {
-	background-color:#FAEEFB;
+	background-color:#f2fae;
 }
 
 .group_torrent td[colspan$='3'] {
