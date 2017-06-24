@@ -351,7 +351,7 @@ p.min_padding {
 .head {
 	padding: 4px;
 	border-bottom: 1px solid #3a9156;
-	background: #d8f6dd;
+	background: #a7efb4;
 	color: #333;
 }
 
@@ -438,7 +438,7 @@ td.colhead, .colhead td {
 }
 
 .colhead_dark {
-	background: #d8f6dd;
+	background: #a7efb4;
 	color: #333;
 }
 /*.sign img {*/
