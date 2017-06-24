@@ -414,7 +414,7 @@ td {
 .colhead {
 	background: #9dd8a3;
 	font-weight: bold;
-	color: white;
+	color: green;
 }
 
 td.colhead, .colhead td {
