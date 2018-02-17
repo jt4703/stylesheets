@@ -1524,7 +1524,7 @@ repeat;
 .site-logo {
 	width: 220px;
 	height: 40px;
-	background: url(https://ptpimg.me/l2smn2.png) no-repeat center center;
+	/*background: url(https://ptpimg.me/l2smn2.png) no-repeat center center;*/
 	position: absolute;
 	left: 10px;
 	top: 10px;
