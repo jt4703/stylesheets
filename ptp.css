@@ -308,7 +308,7 @@ border>thead>tr>td, .table--no-border>tbody>tr>td, .table--no-border>tfoot>tr>td
 }
 .table--panel-like>thead>tr {
 	padding: 4px;
-	background: #b78234 url(https://ptpimg.me/15uyjy.png) repeat-x;
+	*/background: #b78234 url(https://ptpimg.me/15uyjy.png) repeat-x;/*
 	border-bottom: 1px solid #65430F;
 	font-weight:bold;
 }
@@ -592,7 +592,7 @@ left;
 .footer {
     width: 100%;
 	margin-top: 20px;
-	background: url(https://ptpimg.me/qk5d9k.png);
+/*	background: url(https://ptpimg.me/qk5d9k.png);*/
 	text-align: center;
 	color: #FFFFFF;
 	padding: 1em 0;
@@ -673,7 +673,7 @@ left;
 }
 .forum-post__heading {
 	padding: 4px;
-	background: #b78234 url(https://ptpimg.me/15uyjy.png) repeat-x;
+	/*background: #b78234 url(https://ptpimg.me/15uyjy.png) repeat-x;*/
 	border-bottom: 1px solid #65430F;
 	font-weight:bold;
 }
@@ -745,7 +745,7 @@ center;
 }
 .forum-topic__go-to-last-read {
     float: left;
-    background: url("https://ptpimg.me/3ox0x2.png") no-repeat center center;
+  /*  background: url("https://ptpimg.me/3ox0x2.png") no-repeat center center;*/
     width: 15px;
     height: 15px;
     margin-left: 5px;
@@ -1217,7 +1217,7 @@ html.busy-cursor, html.busy-cursor * {
 }
 .panel__heading {
 	padding: 4px;
-	background: #b78234 url(https://ptpimg.me/15uyjy.png) repeat-x;
+	/*background: #b78234 url(https://ptpimg.me/15uyjy.png) repeat-x;*/
 	border-bottom: 1px solid #65430F;
 	font-weight:bold;
 }
@@ -1524,7 +1524,7 @@ repeat;
 .site-logo {
 	width: 220px;
 	height: 40px;
-	background: url(https://ptpimg.me/l2smn2.png) no-repeat center center;
+	/*background: url(https://ptpimg.me/l2smn2.png) no-repeat center center;*/
 	position: absolute;
 	left: 10px;
 	top: 10px;
@@ -1742,7 +1742,7 @@ top: 100%;
 
 .header {
 width: 100%;
-background: url(https://ptpimg.me/yc91i6.png) repeat-x;
+/*background: url(https://ptpimg.me/yc91i6.png) repeat-x;*/
 margin-bottom: 15px;
 padding: 0;
 margin: 0;
