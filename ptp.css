@@ -277,7 +277,9 @@ th {
 .table>thead>tr, .table>tbody>tr {
     background-color: #DCB881;
 }
-.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, 
+
+.table>tfoot>tr>td {
     border-top: solid thin #65430F;
     line-height: 1.42857;
     padding: 5px;
@@ -288,13 +290,17 @@ th {
 .table--bordered {
     border: solid thin #65430F;
 }
-.table--bordered>thead>tr>th, .table--bordered>tbody>tr>th, .table--bordered>tfoot>tr>th, .table--bordered>thead>tr>td, .table--bordered>tbody>tr>td, .table--bordered>tfoot>tr>td {
+.table--bordered>thead>tr>th, .table--bordered>tbody>tr>th, .table--bordered>tfoot>tr>th, .table--
+
+bordered>thead>tr>td, .table--bordered>tbody>tr>td, .table--bordered>tfoot>tr>td {
     border: solid thin #65430F;
 }
 .table--no-border {
     border: 0;
 }
-.table--no-border>thead>tr>th, .table--no-border>tbody>tr>th, .table--no-border>tfoot>tr>th, .table--no-border>thead>tr>td, .table--no-border>tbody>tr>td, .table--no-border>tfoot>tr>td {
+.table--no-border>thead>tr>th, .table--no-border>tbody>tr>th, .table--no-border>tfoot>tr>th, .table--no-
+
+border>thead>tr>td, .table--no-border>tbody>tr>td, .table--no-border>tfoot>tr>td {
     border: 0;
 }
 .table--striped>tbody>tr:nth-child(odd)>td, .table--striped>tbody>tr:nth-child(odd)>th {
@@ -318,7 +324,9 @@ th {
 .nobr {
     white-space: nowrap;
 }
-.clearfix:after, .forum-post__heading:after, .grid:after, .huge-movie-list__movie:after, .poll__bar:after, .sidebar:after, .tabs__bar__list:after {
+.clearfix:after, .forum-post__heading:after, .grid:after, .huge-movie-list__movie:after, .poll__bar:after, 
+
+.sidebar:after, .tabs__bar__list:after {
     content: "";
     display: table;
     clear: both;
@@ -471,14 +479,18 @@ th {
     padding: 0.5em;
 }
 .bbcode-toolbar__button {
-    background: #DCB881 url("https://passthepopcorn.me/static/common/bbcode_buttons5.png") no-repeat center center;
+    background: #DCB881 url("https://passthepopcorn.me/static/common/bbcode_buttons5.png") no-repeat center 
+
+center;
     width: 24px;
     height: 24px;
     float: left;
     border: 4px solid #DCB881;
 }
 .bbcode-toolbar__button:hover {
-    background: #eddabd url("https://passthepopcorn.me/static/common/bbcode_buttons5.png") no-repeat top left;
+    background: #eddabd url("https://passthepopcorn.me/static/common/bbcode_buttons5.png") no-repeat top 
+
+left;
     border: 4px solid #DCB881;
 }
 .bbcode-toolbar__size-popup-row {
@@ -583,7 +595,7 @@ th {
 	/*background: url(https://ptpimg.me/qk5d9k.png);*/
         background-color: #492802;
 	text-align: center;
-	color: #DCB881;
+	color: #fdfdfd;
 	padding: 1em 0;
 }
 .footer__disclaimer {
@@ -719,7 +731,9 @@ th {
     background: url(https://passthepopcorn.me/static/forums/locked_read.png) no-repeat center center;
 }
 .forum-topic--is-unread-locked-sticky {
-    background: url(https://passthepopcorn.me/static/forums/locked_sticky_unread.png) no-repeat center center;
+    background: url(https://passthepopcorn.me/static/forums/locked_sticky_unread.png) no-repeat center 
+
+center;
 }
 .forum-topic--is-unread-sticky {
     background: url(https://passthepopcorn.me/static/forums/sticky_unread.png) no-repeat center center;
@@ -1025,7 +1039,9 @@ color: #DBCD91;
 }
 .mediainfo--in-release-description {
     width: 100%}
-.mediainfo--in-release-description>tbody>tr, .mediainfo--in-release-description .mediainfo__section>tbody>tr {
+.mediainfo--in-release-description>tbody>tr, .mediainfo--in-release-description .mediainfo__section>tbody>tr 
+
+{
     background-color: #DCB881;
 }
 html.busy-cursor, html.busy-cursor * {
@@ -1232,7 +1248,9 @@ html.busy-cursor, html.busy-cursor * {
     float: left;
     width: 2px;
     height: 9px;
-    background: url("https://passthepopcorn.me/static/styles/dark/images/bar_left.gif") center center no-repeat;
+    background: url("https://passthepopcorn.me/static/styles/dark/images/bar_left.gif") center center no-
+
+repeat;
     margin: 0px;
     padding: 0px;
 }
@@ -1247,7 +1265,9 @@ html.busy-cursor, html.busy-cursor * {
     float: left;
     width: 2px;
     height: 9px;
-    background: url("https://passthepopcorn.me/static/styles/dark/images/bar_right.gif") center center no-repeat;
+    background: url("https://passthepopcorn.me/static/styles/dark/images/bar_right.gif") center center no-
+
+repeat;
     margin: 0px;
     padding: 0px;
 }
@@ -1816,7 +1836,9 @@ color: #DBCD91;
     background-color: #dcb881;
     outline: 0;
 }
-.tabs__bar__item--active>.tabs__bar__link, .tabs__bar__item--active>.tabs__bar__link:hover, .tabs__bar__item--active>.tabs__bar__link:active, .tabs__bar__item--active>.tabs__bar__link:focus {
+.tabs__bar__item--active>.tabs__bar__link, .tabs__bar__item--active>.tabs__bar__link:hover, 
+
+.tabs__bar__item--active>.tabs__bar__link:active, .tabs__bar__item--active>.tabs__bar__link:focus {
     margin-top: 0px;
     margin-bottom: -2px;
     border-top-color: #65430f;
@@ -1855,7 +1877,9 @@ color: #DBCD91;
     font-weight: bold;
     color: #20b83e;
 }
-.torrent-info__download-modifier--free, .torrent-info__download-modifier--half, .torrent-info__download-modifier--neutral {
+.torrent-info__download-modifier--free, .torrent-info__download-modifier--half, .torrent-info__download-
+
+modifier--neutral {
     font-weight: bold;
 }
 .torrent-info__trumpable {
