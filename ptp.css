@@ -581,8 +581,9 @@ th {
     width: 100%;
 	margin-top: 20px;
 	/*background: url(https://ptpimg.me/qk5d9k.png);*/
+        background: #492802
 	text-align: center;
-	color: #492802
+	color: #FFF
 	padding: 1em 0;
 }
 .footer__disclaimer {
